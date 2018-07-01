@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"text/scanner"
 
-	"github.com/PaesslerAG/gval"
+	"github.com/jangoo/gval"
 )
 
 type jsonObject []func(c context.Context, v interface{}, visit func(key string, value interface{})) error

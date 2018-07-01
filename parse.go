@@ -6,7 +6,7 @@ import (
 	"math"
 	"text/scanner"
 
-	"github.com/PaesslerAG/gval"
+	"github.com/jangoo/gval"
 )
 
 func (s single) parse(c context.Context, p *gval.Parser) (r gval.Evaluable, err error) {

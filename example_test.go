@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/PaesslerAG/gval"
+	"github.com/jangoo/gval"
 
 	"github.com/PaesslerAG/jsonpath"
 )

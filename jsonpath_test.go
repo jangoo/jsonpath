@@ -8,8 +8,8 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/PaesslerAG/gval"
-	"github.com/PaesslerAG/jsonpath"
+	"github.com/jangoo/gval"
+	"github.com/jangoo/jsonpath"
 )
 
 type jsonpathTest struct {

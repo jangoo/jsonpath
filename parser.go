@@ -3,7 +3,7 @@ package jsonpath
 import (
 	"context"
 
-	"github.com/PaesslerAG/gval"
+	"github.com/jangoo/gval"
 )
 
 type parser struct {

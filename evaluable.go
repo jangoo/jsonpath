@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/PaesslerAG/gval"
+	"github.com/jangoo/gval"
 )
 
 //$
